@@ -57,7 +57,8 @@ Follow these simple steps to get started with the Google Drive application:
 
 - In firebase it will store the data
 
-  ![Screenshot 2023-07-25 152853](https://github.com/venkat-jpg/Internship/assets/128593769/7c032653-4afc-4d37-b95f-007bf6697c2e)
+  ![Screenshot 2023-08-26 121253](https://github.com/venkat-jpg/project-3/assets/128593769/a7cbc447-9db4-4fe9-8fc8-343ee4121932)
+
 
 
 ### Prerequisites
@@ -108,10 +109,10 @@ If you wish to deploy this project-2 on a web server, you can follow these steps
 
 ## Authors <a name="authors"></a>
 
-- [@Venkat](https://github.com/venkat-jpg) - Project 2.
+- [@Venkat](https://github.com/venkat-jpg) - Project 3.
 
 ## Acknowledgments <a name="acknowledgement"></a>
 
 - Special thanks to BheemesH for the guidance and support throughout the development process.
-- The Readme of my Project-2 in Github was inspired by the work of Bhupendraparihar (https://github.com/skill-lync-cs/project-documentation#readme).
+- The Readme of my Project-3 in Github was inspired by the work of Bhupendraparihar (https://github.com/skill-lync-cs/project-documentation#readme).
 
