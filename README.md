@@ -1,7 +1,7 @@
 # project-3
 <p align="center">
   <a href="" rel="noopener">
-    <img width=200px height=200px src="[[https://tse3.mm.bing.net/th?id=OIP.1om7KvIn8q4gtAD-YXfD6AHaHA&pid=Api&P=0&h=180](https://tse2.mm.bing.net/th?id=OIP.aByvAl4Fl4Dk3N9fA3IudwHaFM&pid=Api&P=0&h=180)](https://tse3.mm.bing.net/th?id=OIP.3DAZAJW3HMX8ICfboJWUkwHaFj&pid=Api&P=0&h=180)" alt="Project logo">
+    <img width=200px height=200px src="![Screenshot 2023-08-26 122027](https://github.com/venkat-jpg/project-3/assets/128593769/b4d68290-dd37-4f05-a1dc-6d19098d7762)" alt="Project logo">
   </a>
 </p>
 <h3 align="center">Project-2</h3>
