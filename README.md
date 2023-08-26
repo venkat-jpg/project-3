@@ -1,7 +1,7 @@
 # project-3
 <p align="center">
   <a href="" rel="noopener">
-    <img width=200px height=200px src="https://wallsdesk.com/wp-content/uploads/2016/06/YouTube-logo-png.png" alt="Project logo">
+    <img width=200px height=200px src="https://www.pixelstalk.net/wp-content/uploads/2016/05/Youtube-Logo-Wallpapers-Free-Download.jpg" alt="Project logo">
   </a>
 </p>
 <h3 align="center">Project-2</h3>
