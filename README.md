@@ -4,12 +4,12 @@
     <img width=200px height=200px src="https://www.pixelstalk.net/wp-content/uploads/2016/05/Youtube-Logo-Wallpapers-Free-Download.jpg" alt="Project logo">
   </a>
 </p>
-<h3 align="center">Project-2</h3>
+<h3 align="center">Project-3</h3>
 <div align="center">
  
 </div>
 
-<p align="center">  Welcome to my Google Drive application! This application is designed to enhance your Google Drive experience by providing additional functionalities and features to manage your files and folders more efficiently. Whether you are a student, professional, or casual user of Google Drive, this application aims to make your file organization and collaboration tasks easier and more convenient.
+<p align="center">  Welcome to our revolutionary Ecommerce platform!Discover the joy of seamless browsing, intuitive search features, and an effortless checkout process. With user-centric design and advanced functionalities, we've created an environment that lets you explore products at your own pace, empowering you to make informed decisions.
     <br> 
 </p>
 
@@ -25,12 +25,11 @@
 - [Acknowledgments](#acknowledgement)
 
 ##  About <a name = "about"></a>
-- Drive gives you access to files directly from your computer, without impacting all of your disk space. Spend less time waiting for files to   sync and more time being productive.
-- File Management: Easily upload, download, and organize files and folders within your Google Drive.
+- Our application is designed to provide you with a shopping experience reminiscent of Amazon's extensive offerings, user-friendly interface, and convenience, all while retaining its unique essence.
+ 
+- Explore a digital marketplace that captures the essence of Amazon – from an extensive range of products spanning diverse categories to a seamless shopping journey.
 
-- Advanced Search: Effortlessly find files by using advanced search filters such as file type, date modified, owner, and more.
-
-- Share and Collaborate: Quickly share files and folders with others and manage collaboration settings
+- Immerse yourself in a world where every click opens up a world of possibilities, much like the familiar experience of browsing Amazon's virtual aisles.
 
 ## 🏁 Getting Started <a name="getting_started"></a>
 
