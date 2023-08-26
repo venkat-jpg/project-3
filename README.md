@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
-    <img width=200px height=200px src="https://logolook.net/wp-content/uploads/2021/06/Amazon-Logo.png" alt="Project logo">
+    <img width=200px height=200px src="https://larrybrownsports.com/wp-content/uploads/2021/02/amazon-logo.jpg" alt="Project logo">
   </a>
 </p>
 <h3 align="center">Project-3</h3>
