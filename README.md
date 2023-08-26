@@ -33,32 +33,29 @@
 
 ## 🏁 Getting Started <a name="getting_started"></a>
 
-Follow these simple steps to get started with the Google Drive application:
+Follow these simple steps to get started with the Amazon application:
 
-- Authorization: Go to the application's website and authorize the application to access your Google Drive.
+- Authorization: Go to the application's website and authorize the application to access your Amazon .
 
-![Screenshot 2023-08-26 121353](https://github.com/venkat-jpg/project-3/assets/128593769/787ad3aa-7052-4654-baa8-8bafa90cec8d)
+![Screenshot 2023-08-26 121018](https://github.com/venkat-jpg/project-3/assets/128593769/f3961199-357e-4435-8501-c9f90348d135)
 
-
-- Dashboard: Once authorized, you'll be directed to the dashboard, where you can view your Google Drive files and folders.
+- sign-in:
 
 ![Screenshot 2023-08-26 121122](https://github.com/venkat-jpg/project-3/assets/128593769/cad96f57-e5ac-451e-b26a-bd6ead758e09)
 
 
-- File Actions: Right-click on files and folders to access a range of actions, such as uploading, downloading, sharing, and more.
+- Dashboard: Once authorized, you'll be directed to the dashboard, where you can view your Amazon main page .
 
+![Screenshot 2023-08-26 121353](https://github.com/venkat-jpg/project-3/assets/128593769/787ad3aa-7052-4654-baa8-8bafa90cec8d)
 
-![Screenshot 2023-08-26 121018](https://github.com/venkat-jpg/project-3/assets/128593769/f3961199-357e-4435-8501-c9f90348d135)
+- File Actions: Now you add products and more.
+
+![Screenshot 2023-08-26 124033](https://github.com/venkat-jpg/project-3/assets/128593769/75ab15df-697e-4c78-b24c-1f10c7eda87d)
 
 
 - Search: Use the search bar to find specific files based on various criteria, making file discovery a breeze.
 
 - Settings: Customize the application's behavior, notifications, and sync preferences through the settings menu.
-
-- In firebase it will store the data
-
-  ![Screenshot 2023-08-26 121253](https://github.com/venkat-jpg/project-3/assets/128593769/a7cbc447-9db4-4fe9-8fc8-343ee4121932)
-
 
 
 ### Prerequisites
@@ -81,14 +78,8 @@ If you wish to deploy this project-2 on a web server, you can follow these steps
 
 
 ## Usage <a name="usage"></a>
-- Once you have authorized the Google Drive application and accessed the dashboard, you can start using the various features and functionalities to manage your files and folders effectively.
-- Upload Files: Click on the "Upload" button to select files from your computer and upload them to your Google Drive.
 
-- Download Files: Right-click on a file and select "Download" to save it to your local machine.
-
-- Organize Folders: Create new folders or move files into existing folders to keep your files organized.
-
-- Delete Files/Folders: Right-click on a file or folder and select "Delete" to remove it from your Google Drive.
+Using our Amazon Clone application is an intuitive and seamless experience. Browse through a wide array of product categories, just as you would on Amazon, and explore the diverse offerings available. You can refine your search using filters, read product descriptions and reviews, and view images to make informed decisions. Adding items to your virtual cart is effortless, and the checkout process is designed for ease and efficiency. Track your orders, receive notifications, and manage your account settings all within the application. Whether you're looking for everyday essentials, unique finds, or the latest trends, our Amazon Clone application is your gateway to a familiar yet refreshing shopping adventure. Enjoy the convenience, variety, and user-friendly interface as you navigate through a world of products tailored to your preferences.
 
 
 ## Built Using <a name="built_using"></a>
