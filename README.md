@@ -53,7 +53,8 @@ Follow these simple steps to get started with the Amazon application:
 ![Screenshot 2023-08-26 124033](https://github.com/venkat-jpg/project-3/assets/128593769/75ab15df-697e-4c78-b24c-1f10c7eda87d)
 
 
-- Search: Use the search bar to find specific files based on various criteria, making file discovery a breeze.
+ ![Screenshot 2023-08-26 124753](https://github.com/venkat-jpg/project-3/assets/128593769/9e407e27-4240-4f3f-a97c-287ceedf2f4b)
+
 
 - Settings: Customize the application's behavior, notifications, and sync preferences through the settings menu.
 
