@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
-    <img width=200px height=200px src="[https://www.pixelstalk.net/wp-content/uploads/2016/05/Youtube-Logo-Wallpapers-Free-Download.jpg](https://1000logos.net/wp-content/uploads/2016/10/Amazon-Logo.png)" alt="Project logo">
+    <img width=200px height=200px src="https://logolook.net/wp-content/uploads/2021/06/Amazon-Logo.png" alt="Project logo">
   </a>
 </p>
 <h3 align="center">Project-3</h3>
